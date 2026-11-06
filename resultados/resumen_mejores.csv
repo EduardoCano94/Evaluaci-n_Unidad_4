@@ -1,0 +1,4 @@
+Dataset,Tarea,Mejor modelo,Mejor por test,Friedman p,Supera significativamente a todos,Supera a (n de 4)
+pCR_train,pCR,LogReg,RandomForest,1.0572530893970649e-11,False,3
+OS_data,OS,SVM,RandomForest,2.349249361825295e-10,False,1
+DFS_data,DFS,RandomForest,RandomForest,7.970459060516495e-10,False,1
